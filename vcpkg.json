@@ -1,9 +1,0 @@
-{
-    "name": "testgamerlib00",
-    "description": "testgamerlib00",
-    "license": "MIT",
-    "version": "0.1.0",
-    "dependencies": [
-        "raylib"
-    ]
-}
