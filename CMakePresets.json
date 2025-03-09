@@ -2,7 +2,7 @@
     "version": 8,
     "configurePresets": [
         {
-            "name": "testgamerlib00",
+            "name": "cpp-rlib-pong",
             "displayName": "Configure preset using toolchain file",
             "description": "Sets Ninja generator, build and install directory",
             "generator": "Ninja",

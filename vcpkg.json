@@ -1,8 +1,7 @@
 {
-    "name": "testgamerlib00",
-    "description": "testgamerlib00",
+    "name": "cpp-rlib-pong",
+    "description": "cpp-rlib-pong",
     "license": "MIT",
-    "version": "0.1.0",
     "dependencies": [
         "raylib"
     ]
